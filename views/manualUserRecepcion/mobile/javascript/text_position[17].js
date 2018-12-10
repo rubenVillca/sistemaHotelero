@@ -1,0 +1,1 @@
+﻿positionForPages[18]=[{word:"Manual de usuario: Recepción ",left:0.139059,top:0.013898,width:0.071873,height:0.125161},{word:"17 ",left:0.490474,top:0.010000,width:0.477605,height:0.480474},{word:"b.2) Seleccionar habitaciones ",left:0.139059,top:0.010196,width:0.031458,height:0.128863},{word:"b.3) registrar huésped ",left:0.139059,top:0.010196,width:0.194337,height:0.128863}];

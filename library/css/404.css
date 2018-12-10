@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    line-height: 1em;
+    color: #afa196;
+    font-weight: bold;
+}
+
+img {
+    border: 0;
+    vertical-align: top;
+    text-align: center;
+}
+
+.wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+
+/*==== GLOBAL =====*/
+#main {
+    width: 100%;
+    margin: 0 auto;
+    background: url("../../img/404/error-404.jpg") no-repeat center 100%;
+    font-size: 1em;
+    background-color: black;
+}
+
+#main2 {
+    width: 100%;
+    height:100%;
+    margin: auto;
+    font-size: .9375em;
+    background-color: white;
+}
+
+#footer {
+    font-family: Tahoma, Geneva, sans-serif;
+    color: #333;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px 0 0 0;
+    font-weight: normal;
+}
+
+#footer a {
+    color: #333;
+}
+
+p {
+    margin-bottom: 8px;
+    text-align: center;
+    padding: 0 35px;
+    letter-spacing: -1px;
+}
+
+/*----- txt, links, lines, titles -----*/
+a {
+    color: #fff;
+    outline: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 1.1em;
+    font-weight: normal;
+    color: #afa196;
+    text-align: center;
+    padding: 94px 0 0 0;
+    text-transform: capitalize;
+    font-variant: small-caps;
+    letter-spacing: -2px;
+}
+
+h1 span {
+    display: block;
+    font-size: 20px;
+    line-height: 25px;
+    color: #6b635e;
+    font-variant: normal;
+    text-transform: none;
+    font-weight: bold;
+    letter-spacing: -1px;
+}
+
+/*===== content =====*/
+#content .nav {
+    position: relative;
+    height: 368px;
+}
+#content .nav li {
+    position: absolute;
+    font-size: 20px;
+    line-height: 1.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
+#content .nav li.home {
+    left: 45%;
+    top: 60%;
+}
+#content .nav li.site_map {
+    left: 15%;
+    top: 15%;
+}
+#content .nav li.search {
+    right: 15%;
+    top: 15%;
+}
+#content .nav li a {
+    color: #d6cab9;
+    text-decoration: none;
+}
+#content .nav li a:hover {
+    text-decoration: underline;
+}
+.app-size-1{
+    width: 50%;
+    padding-left: 25%;
+}
+.app-color-black{
+    background-color: #000000
+}

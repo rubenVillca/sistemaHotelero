@@ -1,0 +1,1 @@
+﻿positionForPages[25]=[{word:"Manual de usuario ",left:0.139059,top:0.013898,width:0.071873,height:0.125161},{word:"24 ",left:0.489101,top:0.010000,width:0.445614,height:0.479101},{word:"b.3) Registrar huésped ",left:0.139059,top:0.010030,width:0.048129,height:0.129029},{word:"b.4) Opciones de registro ",left:0.139059,top:0.010030,width:0.299661,height:0.129029}];

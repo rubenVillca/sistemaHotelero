@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="35"><page Index="1"><![CDATA[2018
+
+Manual de usuario cliente
+
+                                                                  ruben
+                                                                  Sistema hotelero
+                                                                  2018]]></page><page Index="2"><![CDATA[]]></page><page Index="3"><![CDATA[Contenido
+
+I. Menú .......................................................................................................................... 4
+   a) Menú de usuario Cliente ......................................................................................... 4
+
+II. Reservas .................................................................................................................... 5
+   a) Formulario de reservas ........................................................................................... 6
+   b) Reservas................................................................................................................. 7
+   c) Tabla de reservas ................................................................................................... 8
+   d) Editar Huéspedes.................................................................................................. 10
+   e) Editar titular........................................................................................................... 12
+
+III. Servicios ............................................................................................................... 14
+   a) Lista de servicios disponibles ................................................................................ 14
+   b) Servicio Seleccionado ........................................................................................... 15
+
+IV. Ofertas ............................................................................................................... 17
+   a) Lista de ofertas...................................................................................................... 17
+   b) Oferta.................................................................................................................... 18
+
+V. Ayuda ....................................................................................................................... 19
+   a) Acerca de nosotros ............................................................................................... 20
+   b) Contáctenos.......................................................................................................... 21
+   c) Preguntas frecuentes ............................................................................................ 22
+   d) Enviar Reclamo..................................................................................................... 22
+   e) Enviar Sugerencias ............................................................................................... 23
+   f) Enviar pregunta..................................................................................................... 23
+
+VI. Sitios Turísticos..................................................................................................... 24
+   a) . Lista de sitios turístico ......................................................................................... 24
+   b) . Ubicación Mapa turístico ..................................................................................... 25
+
+VII. Actividades............................................................................................................ 26
+   a) Lista de actividades............................................................................................... 26]]></page><page Index="4"><![CDATA[b) Cronograma de actividades................................................................................... 27
+   c) Actividad ............................................................................................................... 29
+VIII. Encuestas ............................................................................................................. 30
+IX. Perfil de usuario .................................................................................................... 31
+X. Mensajes .................................................................................................................. 32
+   a) Mensajes recibidos ............................................................................................... 32
+   b) Enviar Mensaje a un usuario ................................................................................. 33]]></page><page Index="5"><![CDATA[Manual de usuario: Hotel
+
+I. Menú
+
+  El presente manual de usuario, explica la forma de uso del sistema hotelero para un usuario
+  cliente que ha iniciado sesión. Al tratarse de un sistema online el sistema es necesario
+  disponer de un dispositivo con conexión a internet y una pantalla. Con la cual se podrá
+  acceder a la información brindada por el sistema hotelero y también podrá hacer reservas.
+
+  a) Menú de usuario Cliente
+
+  En este menú se muestran las opciones a las que un usuario cliente que ha iniciado sesión
+  en el sistema. Este usuario puede acceder al ingresar a la página, este menú estará en la
+  parte superior de la página para los usuarios que no se identificaron con el sistema
+
+  1) Inicio
+  Pagina de binvenida para el usuario en donde se muestra la imagen del hotel y la
+  descripcion del mismo.
+  2) Servicios
+  Aquí se muestra la lista de servicios disponibles en el hotel con sus respectivos precios,
+  descripciones y demás características.
+  3) Sitios turisticos
+  Con esta opcion se puede ver la lista de lugares turisticos recomedados por el hotel.
+  4) Menú de alimentos
+  Lista de alimentos que se ofrecen en el comedor del hotel, con sus respectivos precios
+  5) Actividades
+
+                                                              4]]></page><page Index="6"><![CDATA[Manual de usuario: Hotel
+
+   Con este link podemos acceder a la lista de actividades que el hotel tiene programado el
+   hotel
+   6) Cuestionarios
+   Lista de preguntas a los usuarios sobre temas del hotel
+   7) Mensajes
+   Bandeja de mansajes recibidos, estos estan agrupados por tipo de mensajes.
+   8) Perfil de usuario
+   Perfil de la cuenta del usuario, desde aquí se puede cerrar sesion, ver el perfil del usuario,
+   y ver el historial de consumo en el horel del usuario
+   9) Reservas
+   Realiza búsqueda de habitaciones disponibles para las reservas.
+   10)Consumo
+   Disponible para los usuario que se hicieron una reserva o que esten registrados dentro del
+   hotel, muestra la lista de consumo.
+   11)Ayuda
+   Brinda ayuda a los clientes sobre dudas o reclamos que los usuarios o clientes tengan.
+   12)Cronograma de actividades
+   Lista de actividades del hotel en un calendario
+
+II. Reservas
+
+   Permite que los usuarios realicen reservas de manera online las 24 horas. Para acceder a
+   esta opción se tiene que seleccionar la opción de reservas en el menú principal de la página.
+
+                                                               5]]></page><page Index="7"><![CDATA[Manual de usuario: Hotel
+
+a) Formulario de reservas
+
+1. Formulario de búsqueda
+Formulario donde se realiza la búsqueda para realizar las reservas
+2. Cantidad de personas
+La cantidad de personas adultas que pueden hospedarse en el hotel.
+En esta entrada tienen que recibir números mayores o igual a 1
+3. Cantidad de niños
+Cantidad de niños que pueden ingresar en la habitación
+Los números mayores o igual a cero están permitidos en esta entrada
+4. Fecha de check-in
+En esta entrada se debe ingresar la fecha de ingreso; para buscar habitaciones libres. El
+formato de la fecha tiene que estar en el siguiente orden: Año-Mes-Día
+5. Fecha de check-out
+En esta entrada se debe ingresar la fecha culminación de la reserva; para buscar
+habitaciones libres. El formato de la fecha tiene que estar en el siguiente orden: Año-Mes-
+Día
+6. Botón de consulta
+Enviar los datos ingresados en el formulario al servidor para que sean validados y que
+muestre la lista de habitaciones que estén disponibles. (ver Cap.III inciso b).
+7. Hora de check-in
+Hora aproximada de la llegada al hotel. Esta entrada tiene que tener el siguiente orden:
+Hora: minuto
+8. Hora de check-out
+
+                                                           6]]></page><page Index="8"><![CDATA[Manual de usuario: Hotel
+
+Hora aproximada de culminación de la reserva. Esta entrada tiene que tener el siguiente
+orden: Hora:minuto
+
+b) Reservas
+
+1. Imagen del servicio
+Muestra la imagen del tipo de habitación disponible
+2. Nombre del servicio
+Nombre del servicio en el que existen habitaciones disponibles
+3. Permitir reservas
+Disponibilidad del tipo de habitación para hacer reserva
+4. Tipo de habitación
+Nombre del tipo de habitación que pertenece al servicio
+5. Cantidad de habitaciones
+Número de habitaciones
+6. Costo
+Costo unitario del tipo de servicio con el tipo de cambio asociado al precio, y el tiempo
+expresado en días con horas.
+7. Niños
+Cantidad de niños que pueden ingresar a la habitación
+8. Adultos
+Cantidad máxima de personas que pueden hospedarse en la habitación.
+9. Descripción
+Describe las características con las que cuenta la habitación.
+10. Costo total
+
+                                                           7]]></page><page Index="9"><![CDATA[Manual de usuario: Hotel
+
+Es el costo total de la cantidad de habitaciones elegidas en el tipo de habitación. Este resulta
+de multiplicar la cantidad de habitaciones elegidas por el precio unitario de estas.
+
+c) Tabla de reservas
+
+Muestra la lista de actividades y sus opciones para editar.
+Esta vista estará disponible una vez que el usuario haya realizado una reserva
+
+1) Identificador de la reserva
+Numero de identificador único de la reserva
+2) Fecha de ingreso
+Fecha programada para el ingreso al hotel
+3) Fecha de culminación de la reserva
+Fecha de salida programada
+4) Hora de ingreso
+Hora aproximada de ingreso al hotel
+5) Hora de salida
+
+                                                           8]]></page><page Index="10"><![CDATA[Manual de usuario: Hotel
+
+Hora aproximada de salida del hotel
+6) Nombre del servicio
+Nombre que tiene el servicio que se está reservando
+7) Cantidad de habitaciones
+Cantidad de habitaciones que se está reservando
+8) Costos de la habitación
+Precio que tienen el servicio para la reserva, considerando el precio unitario del servicio por
+el tiempo de estadía que se tiene programado en la reserva
+9) Cantidad pagada
+Cantidad de dinero que el huésped ha depositado para poder realizar la reserva
+10) Estado
+Estado en el que se encuentra el proceso de reserva. Los estados pueden ser:
+- El estado en proceso significa que la reserva no se ha efectuado y que falta enviar la
+
+    solicitud de la reserva.
+- El estado pendiente quiere decir que la solicitud de reserva ha sido enviada el
+
+    encargado del hotel.
+- Cuando el estado cambia a activo significa que la reserva ha sido validada por el
+
+    encargado del hotel.
+11) Editar datos de huéspedes
+Aquí se puede llenar los datos de los huéspedes que se hospedaran en el hotel
+12)Insertar reservas
+Agregar una habitación a las reservas, esta nueva habitación mantendrá las fechas de
+ingreso y salida de la reserva a la que se está añadiendo la habitación
+13)Editar datos de titular
+Con esta opción se puede editar los datos del usuario que está haciendo la reserva. Los
+datos del titular serán heredados de la cuenta del usuario con la que se está haciendo la
+reserva.
+
+                                                           9]]></page><page Index="11"><![CDATA[Manual de usuario: Hotel
+
+14)Eliminar reserva
+Aquí se puede cancelar la reserva que está en proceso, se eliminaran todas las
+habitaciones reservadas, que están en dicha reserva.
+15)Guardar
+Enviar la solicitud de reserva al encargado de reservas en el hotel para validar la tarjeta de
+crédito.
+16)Eliminar habitación de la reserva
+Excluye una habitación seleccionada de la reserva
+
+d) Editar Huéspedes
+
+Desde aquí se edita los datos solicitados de las personas que ocuparan las habitaciones
+que están siendo reservadas.
+
+                                                           10]]></page><page Index="12"><![CDATA[Manual de usuario: Hotel
+
+1) Apellido(s)
+Ingresar los apellidos de los huéspedes, los caracteres permitidos van desde la “a” a la “z”
+incluido la “ñ”.
+2) Numero de huésped
+Es el número del huésped que está siendo registrado
+3) Nombre
+
+                                                           11]]></page><page Index="13"><![CDATA[Manual de usuario: Hotel
+
+Ingresar los nombres de los huéspedes, los caracteres permitidos van desde la “a” a la “z”
+incluido la “ñ”.
+4) País
+Seleccionar la nacionalidad del huésped
+5) Fecha de nacimiento
+Ingresar la fecha de nacimiento del huésped
+6) Género
+Sexo del huésped, seleccionar un género hombre o mujer.
+7) Tipo de documento
+Tipo de documento de identificación del huésped. Seleccionar una opción de la lista
+disponible
+8) Número de documento
+Número del documento de identidad elegido para identificar al huésped. Caracteres
+permitidos solo números
+9) Dirección
+Dirección de residencia del huésped. Caracteres permitidos números, letras y caracteres
+especiales
+10) Atrás
+Retornar a la vista donde están la reserva
+11) Guardar
+Guardar los datos modificados de los huéspedes
+
+e) Editar titular
+
+                                                           12]]></page><page Index="14"><![CDATA[Manual de usuario: Hotel
+
+1) Nombre
+Ingresar los nombres de la persona que está reservando, los caracteres permitidos van
+desde la “a” a la “z” incluido la “ñ”.
+2) Apellido(s)
+Ingresar los apellidos de la persona que está reservando, los caracteres permitidos van
+desde la “a” a la “z” incluido la “ñ”.
+3) Sexo
+Sexo del huésped, seleccionar un género hombre o mujer.
+4) Email
+Ingresar el email de la persona que está realizando la reserva.
+5) País
+Seleccionar la nacionalidad de la persona que realiza la reserva.
+6) Ciudad
+
+                                                           13]]></page><page Index="15"><![CDATA[Manual de usuario: Hotel
+
+    Ingresar la ciudad de residencia de la persona que está reservando. Los caracteres
+    permitidos son los alfabéticos.
+    7) Fecha de nacimiento
+    Ingresar la fecha de nacimiento del titular. Esta fecha tiene que estar en el formato Año-
+    mes-día.
+    8) Dirección
+    Dirección de residencia del titular
+    9) Numero de documento
+    Ingresar el número del documento de identificación. Se permite el ingreso de números de
+    6 a 10 cifras.
+    10) Tipo de documento
+    Seleccionar el tipo de documento de identificación
+    11) Tipo de teléfono
+    Seleccionar el tipo de teléfono
+    12) Número de teléfono
+    Ingresar el número de teléfono del futuro huésped. Estos deben contener números de 6 a12
+    cifras.
+
+III. Servicios
+
+    Muestra la lista de servicios que ofrece el hotel en forma de un mosaico mostrando las
+    imágenes de los servicios. Para acceder aquí hay que seleccionar la opción de servicio en
+    el menú principal.
+
+    a) Lista de servicios disponibles
+
+    Muestra en una lista las imágenes de los servicios disponibles enlazando a los servicios
+    correspondientes.
+
+                                                               14]]></page><page Index="16"><![CDATA[Manual de usuario: Hotel
+
+1. Link de acceso
+Enlace que direcciona a la página donde se detalla el servicio
+2. Imagen
+Imagen que representa el servicio ofrecido
+3. Nombre del servicio
+Nombre identifica torio del servicio
+
+b) Servicio Seleccionado
+
+Para llegar a esta página hay elegir un servicio en la página donde están la lista de servicio
+(ver Cap. III inciso a).
+
+                                                           15]]></page><page Index="17"><![CDATA[Manual de usuario: Hotel
+
+1. Lista de servicio
+Lista de todos los servicios que ofrece el hotel en forma de menú lateral, para una mejor
+visualización.
+2. Nombre del servicio
+Nombre del servicio seleccionado
+3. Imagen del servicio
+Imagen representativa del servicio ofrecido
+4. Servicio seleccionado
+Muestra de forma resaltada en el menú que se muestra en panel derecho
+5. Tabla de costos
+Se muestra en una tabla la lista de precios a la que se ofrece el servicio.
+En esta tabla se detalla el costo, junto con el tiempo, los puntos que se obtiene, y los puntos
+de fidelización que requiere para acceder al servicio a un determinado precio
+6. Tipo de servicio
+Muestra el tipo de servicio en el que se categoriza el servicio, debido a sus características
+7. Estado
+
+                                                           16]]></page><page Index="18"><![CDATA[Manual de usuario: Hotel
+
+     Muestra el estado de actividad en el que está el servicio
+     8. Descripción
+     Detalla las características principales con las que cuenta el servicio.
+     9. Habitación
+     Muestra la habitación o las habitaciones que se ofrecen como parte del servicio.
+
+IV. Ofertas
+
+     En este hotel sabemos lo importante que es ahorrar de dinero para nuestros clientes. Por
+     ello esta sección se muestra las ofertas que están disponibles en nuestro hotel. El acceso
+     a esta página es mediante la opción del ítem “Ofertas” en el menú principal
+
+    a) Lista de ofertas
+
+     Muestra la lista de ofertas que estan vigentes en el hotel
+
+     1. Nombre de la oferta
+     Nombre con la que se puede identificar a la oferta
+
+                                                                17]]></page><page Index="19"><![CDATA[Manual de usuario: Hotel
+
+2. Descripción de la oferta
+Detalles principales de la oferta
+3. Imagen de la oferta
+Imagen representativa de la oferta
+
+b) Oferta
+
+En esta pagina se muestra la oferta selecciona en el inciso anterior
+
+1. Imagen de la oferta
+Imagen representativa de la oferta
+2. Fecha de finalización de la oferta
+Fecha de finalización de la oferta
+3. Fecha de inicio de la oferta
+Fecha inicio de la oferta
+4. Nombre de la oferta
+
+                                                           18]]></page><page Index="20"><![CDATA[Manual de usuario: Hotel
+
+    Nombre de la oferta
+    5. Tabla de costos
+    Lista de costos de la oferta
+    6. Tiempo (Horas)
+    Cantidad de horas de la oferta
+    7. Tiempo (Días)
+    Cantidad de días de la oferta, la suma de las horas y días es la cantidad total de tiempo de
+    la oferta
+    8. Retroceder
+    Ir a la lista de ofertas
+    9. Cantidad de unidades
+    Es la cantidad de unidades que se toman de la oferta al precios y tiempo establecidos en la
+    tabla de costos de la oferta
+    10. Precio
+    Precio que cuesta la oferta
+    11. Puntos obtenidos
+    Cantidad de puntos que se obtiene por optar la oferta
+    12. Puntos requeridos
+    Son los puntos que el usuario necesita para la oferta
+    13. Descripción
+    Detalla las características principales que componen la oferta
+
+V. Ayuda
+
+    En esta sección se busca brindar apoyo a las dudas que el usuario o cliente puedan tener
+    acerca del uso del sistema y sobre el hotel.
+
+                                                               19]]></page><page Index="21"><![CDATA[Manual de usuario: Hotel
+
+a) Acerca de nosotros
+
+1. Ubicación del hotel
+Muestra en un mapa la ubicación del hotel, resaltado por un marcador el punto exacto donde
+este se encuentra
+2. Ruta de enlaces anteriores
+Indica las páginas que se tomaron para llegar a la página actual.
+3. Nombre del hotel
+Razón social del hotel
+4. Ítem seleccionado
+Muestra el ítem Ayuda del menú que ha sido seleccionado para esta pagina
+5. Historia del hotel
+Describe la historia del hotel
+6. Información del hotel
+Detalla las características básicas del hotel tales como el: nombre, ubicación, coordenadas,
+dirección, email, país, ciudad, fecha de fundación.
+
+                                                           20]]></page><page Index="22"><![CDATA[Manual de usuario: Hotel
+
+b) Contáctenos
+
+Sección para enviar alguna duda o mensaje al administrador del hotel, para ingresar a esta
+sección se debe seleccionar la opción de ayuda en el menú seguido del ítem contáctenos
+
+1. Asunto
+Es este apartado se ingresa el motivo por el que se quiere enviar el mensaje
+2. Email
+En esta entrada se ingresa el email del usuario que envía el mensaje, este email sirve para
+que el encargado del hotel pueda responder a la duda del usuario de manera privada.
+3. Barra de estilos
+Estas opciones sirven para dar estilos al mensaje como ser la negrilla, tamaño de letra,
+color de letra entre otros.
+4. Mensaje
+
+                                                           21]]></page><page Index="23"><![CDATA[Manual de usuario: Hotel
+
+En esta parte debe ingresar el mensaje o dudad que tenga en usuario
+5. Enviar
+Para enviar el mensaje se debe presionar este botón.
+
+c) Preguntas frecuentes
+
+1. Pregunta
+Pregunta frecuente que fue respondida por el administrador de hotel.
+2. Respuesta
+Respuesta a la pregunta mencionada anteriormente.
+
+d) Enviar Reclamo
+
+Desde aquí se puede enviar un mensaje de reclamo al administrador.
+
+1) Barra de herramientas
+Sirve para dar estilo a los mensajes
+2) Mensaje
+Mensaje a enviar. Se permite todo tipo de caracteres alfanuméricos
+
+                                                           22]]></page><page Index="24"><![CDATA[Manual de usuario: Hotel
+
+3) Botón Enviar
+Enviar el mensaje al administrador
+
+e) Enviar Sugerencias
+
+Desde aquí se puede enviar un mensaje de sugerencia al administrador
+
+1) Barra de herramientas
+Sirve para dar estilo a los mensajes
+2) Mensaje
+Mensaje a enviar. Se permite todo tipo de caracteres alfanuméricos
+3) Botón Enviar
+Enviar el mensaje al administrador
+
+f) Enviar pregunta
+
+Desde aquí se puede enviar una pregunta al administrador
+
+                                                           23]]></page><page Index="25"><![CDATA[Manual de usuario: Hotel
+
+     1) Barra de herramientas
+     Sirve para dar estilo a los mensajes
+     2) Mensaje
+     Mensaje a enviar. Se permite todo tipo de caracteres alfanuméricos
+     3) Botón Enviar
+     Enviar el mensaje al administrador
+
+VI. Sitios Turísticos
+
+     Muestra la lista de lugares turísticos de la región junto con su descripción, dirección y
+     nombre.
+
+    a) . Lista de sitios turístico
+
+     Muestra unalista con los lugares turisticos de la region. Para ir a esta opción hay que
+     seleccionar la opción de sitios turísticos del menú principal.
+
+                                                                24]]></page><page Index="26"><![CDATA[Manual de usuario: Hotel
+
+1) Imagen
+Foto del lugar turístico
+2) Nombre
+Nombre local por el que se lo conoce al lugar turístico
+3) Descripción
+Breve descripción del lugar turístico
+4) Ver Mas
+Ir a la descripción detallada del lugar turístico
+
+b) . Ubicación Mapa turístico
+
+Para legar a esta vista hay que seleccionar un sitio turístico de la lista de lugares disponibles
+(ver Cap VI inciso a).
+
+1) Mapa
+
+         25]]></page><page Index="27"><![CDATA[Manual de usuario: Hotel
+
+      Muestra exactamente en un mapa la ubicación del lugar turístico
+      2) Tipo de vista
+      Seleccionar el tipo de vista para ver el mapa
+      3) Botones de Zoom
+      Acercarse al punto señalado en el mapa
+      4) Descripción
+      Descripción del lugar turístico
+      5) Coordenadas
+      Muestra las coordenadas de latitud y longitud del lugar turístico
+      6) Dirección
+      Dirección del lugar turístico
+
+VII. Actividades
+
+      Muestra la lista de actividades que están en el calendario del hotel.
+
+     a) Lista de actividades
+
+      Para acceder a esta opción hay que seleccionar la opción de actividades en el menú
+      principal. Aquí se muestra la lista de actividades programadas en el hotel
+
+                                                                 26]]></page><page Index="28"><![CDATA[Manual de usuario: Hotel
+
+1) Descripción
+Breve descripción de la actividad en el hotel
+2) Nombre actividad
+Nombre de la actividad
+3) Imagen
+Foto de la actividad programada
+4) Tipo y estado
+Tipo de actividad seguido del estado en que se encuentra la actividad
+5) Duración
+Fecha de inicio y fecha de culminación de la actividad
+6) Ver Mas
+Ir a la descripción detallada de la actividad
+7) Cambiar vista
+Cambiar la vista a cronograma de actividades (ver Cap. VII inciso b).
+
+b) Cronograma de actividades
+
+Visualiza las actividades en un calendario para un mejor entendimiento de la programación
+de las actividades
+
+                                                           27]]></page><page Index="29"><![CDATA[Manual de usuario: Hotel
+
+1) Mes siguiente
+Ver el siguiente mes
+2) Vista por mes
+Ver las actividades por mes
+3) Mes actual
+Ir a mes actual en el calendario
+4) Día del mes
+Casilla con el día del mes
+5) Vista por semanas
+Ver las actividades por semanas
+6) Mes anterior
+Ir al mes anterior
+7) Vista por días
+
+                                  28]]></page><page Index="30"><![CDATA[Manual de usuario: Hotel
+
+Ver el horario de las actividades en el cronograma
+8) Días de la semana
+Nombres de los días de la semana
+9) Día actual
+Remarca el día en el que se encuentra
+10) Actividad
+Nombre de la actividad
+
+c) Actividad
+
+Muestra detalladamente la actividad con sus características
+
+1) Nombre
+Nombre de la actividad
+
+                        29]]></page><page Index="31"><![CDATA[Manual de usuario: Hotel
+
+       2) Imagen
+       Imagen de la actividad
+       3) Tipo
+       Tipo de actividad a realizar
+       4) Estado
+       Estado de actividad
+       5) Inicio
+       Fecha y hora de inicio de la actividad
+       6) Finalización
+       Fecha de culminación de la actividad
+       7) Descripción
+       Descripción detallada de la ctividad
+
+VIII. Encuestas
+
+       Para acceder a una encuesta hay que seleccionar la opción 12 del menú principal (Var cap1
+       inciso 12). Las encuestas son para medir el grado de satisfacción del cliente en el hotel
+
+                                                                  30]]></page><page Index="32"><![CDATA[Manual de usuario: Hotel
+
+     1) Nombre encuesta
+     Nombre de la encuesta donde especifica la función de la encuesta
+     2) Pregunta
+     Es la pregunta la encuesta con el número de pregunta
+     3) Respuesta
+     Ingresar una respuesta
+     4) Botón Guardar
+     Guardar el cuestionario y enviar las respuestas al administrador del hotel
+
+IX. Perfil de usuario
+
+     Perfil del usuario mostrando los datos del usuario
+
+     1) Foto de perfil del usuario
+     2) Nombre completo de usuario
+     3) Email para contactarse con el usuario
+     4) Fecha de nacimiento
+     5) Rol del usuario
+     6) Género: hombre o mujer
+     7) Ubicación: país y ciudad
+     8) Dirección donde reside el usuario
+
+                                                                31]]></page><page Index="33"><![CDATA[Manual de usuario: Hotel
+
+    9) Tipo de documento para identificar al usuario
+    10)Número de documento de identificación
+    11)Tipo de teléfono
+    12)Botón Editar: Para modificar los datos del usuario
+    13)Estado de la cuenta
+    14)Fecha de registro en el sistema
+    15)Número de teléfono
+
+X. Mensajes
+
+   a) Mensajes recibidos
+
+    1) Lista de mensajes
+    Lista de mensajes ordenado de manera descendente. Los mensajes no leídos están
+    resaltados de un color deferente al blanco.
+    2) Lista de tipos de mensajes
+    Lista de las categorías de los mensajes
+    3) Asunto del mensaje
+
+                                                               32]]></page><page Index="34"><![CDATA[Manual de usuario: Hotel
+
+Nombre del tipo de mensaje
+4) Remitente
+Usuario que envió el mensaje
+5) Tipo de mensaje seleccionado
+El tipo de mensaje seleccionado del menú de tipos de mensajes estará resaltado por un
+color azul.
+6) Cantidad de mensajes recibidos
+Cantidad de mensajes, en el tipo de mensaje, que no han sido leídos.
+7) Mensaje
+Mensaje recibido
+8) Fecha de envió
+Fecha en la que el remitente envió el mensaje
+9) Hora de envió
+Hora de envió del mensaje
+10) Botón Eliminar
+Eliminar el mensaje que se está mostrando
+11) Lista de actividades
+Panel donde se muestra la lista e actividades del hotel
+12) Cronograma
+Panel con un calendario.
+
+b) Enviar Mensaje a un usuario
+
+Enviar mensaje a un usuario del sistema
+
+                                                           33]]></page><page Index="35"><![CDATA[Manual de usuario: Hotel
+
+1) Asunto
+Razón de envió del mensaje
+2) Usuario receptor
+Usuario del sistema a quien está dirigido el mensaje
+3) Tipo de mensaje
+Tipo de mensaje a enviar
+4) Mensaje
+Mensaje a enviar
+5) Botón Enviar
+Enviar el mensaje al usuario elegido
+
+                                                           34]]></page></pages></Search>

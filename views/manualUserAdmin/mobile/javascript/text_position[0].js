@@ -1,0 +1,1 @@
+﻿positionForPages[1]=[{word:"2018 ",left:0.648938,top:0.039804,width:0.431943,height:0.609134},{word:"Ruben Villca ",left:0.647173,top:0.009795,width:0.228862,height:0.637378},{word:"Sistema Hotelero ",left:0.647173,top:0.008280,width:0.254312,height:0.638893},{word:"Manual de usuario ",left:0.425768,top:0.050294,width:0.115743,height:0.375474}];
